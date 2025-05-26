@@ -10,7 +10,7 @@ This is a [pwnagotchi](https://github.com/evilsocket/pwnagotchi) inspired theme 
 
 ## Customization
 
-You can customize the theme by editing the `theme.json` file and/or replace the icons.
+You can customize the theme by editing the `pwnagotchi.json` file and/or replace the icons.
 
 ## Icons
 
